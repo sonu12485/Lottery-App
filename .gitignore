@@ -1,0 +1,6 @@
+# dependencies
+/Lottery/node_modules
+/lottery-react/node_modules
+
+# production
+/lottery-react/build
